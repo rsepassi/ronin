@@ -3,7 +3,7 @@
 *Status*: Just starting out...
 
 [Ninja][ninja]-compatible build system written in (and for) Zig, inspired by
-[samurai][samurai].
+[samurai][samurai] and [xmake][xmake].
 
 Standalone usage:
 
@@ -77,3 +77,4 @@ Some interesting links:
 [ninja]: https://github.com/ninja-build/ninja
 [samurai]: https://github.com/michaelforney/samurai
 [bwrap]: https://github.com/containers/bubblewrap
+[xmake]: https://github.com/xmake-io/xmake
